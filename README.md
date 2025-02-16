@@ -1,5 +1,7 @@
 # 🚀 告别天价AI工具！免费畅享「Cursor」
 
+# 下载地址 链接: https://pan.baidu.com/s/11WCXcPyjlq0I-V4m7X-eVA?pwd=cx2y 提取码: cx2y 
+
 ## 🔥 为什么开发者都在逃离Cursor？
 - 虽然**Cursor**凭借**AI智能补全/对话编程**等功能成为开发效率神器
 - 但$20/月的高昂价格让无数开发者望而却步
