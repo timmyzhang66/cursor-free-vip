@@ -47,5 +47,6 @@
 curl -fsSL https://tool.ai/install | bash
 
 ## 如有疑问，请联系
+
 <img width="104" alt="image" src="https://github.com/user-attachments/assets/d94368f9-f98e-492d-9639-df536fdc4efa" />
 
